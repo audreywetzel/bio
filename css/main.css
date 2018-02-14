@@ -1,1 +1,97 @@
-hey 
+img{
+	width:100%;
+	height: auto;
+	margin-bottom: 50px;
+}
+
+body{
+	background-color: #303030;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Cardo', serif;
+}
+
+p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	line-height: 28px;
+}
+div.head_img {
+	background-color: #6c2129;
+	padding: 30px 0;
+	box-shadow: 10px 10px 0px #DDAB37;
+	margin-bottom: 70px;
+	margin-right: 60px;	
+}
+
+div.head_img img {
+	margin: 0;
+}
+
+div.header{ 
+	background-color: #6c2129;
+	color: #DDAB37;
+	margin-bottom: 50px;
+	margin-right: 60px;
+	text-shadow: 2px 2px black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+ }
+
+div.about{
+background-color:#6c2129;
+	background-size: 80px;
+	padding: 30px 0;
+	box-shadow: 10px 10px 0px #DDAB37;
+	margin: 0 0 40px 0;
+	color:  #DDAB37;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 60px;
+	margin-right: 60px;
+}
+
+div.impact {
+	background-color: #6c2129;
+	color: #DDAB37;
+	margin-top: 4%;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	text-shadow: 2px 2px black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.maroon-text-wrap {
+	background-color: #6c2129;
+	background-size: 80px;
+	padding: 20px 0;
+	box-shadow: 8px 8px 0px #DDAB37;
+	margin: 0 0 40px 0;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.maroon-text-wrap p {
+    color: #DDAB37;
+}
+
+
+section.window{
+	display: block;
+	background: url(../img/window.png) no-repeat center top; 
+	padding: 250px 0 0 10%;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+}
+
+section.window img{
+	width: 30%;
+}
+
+
+
